@@ -3,4 +3,4 @@
 
 | No. | Project Name | Description |
 |-----|----------------------|----------------------------------------------------------|
-| 1 | VB_Net-Arduino_DHT11 | Read Temperature and Humidity and display on VB.Net GUI. |
+| 1 | VB_Net-Arduino_DHT11 | Read Temperature and Humidity using Arduino and DHT11 sensor and display data on VB.Net GUI. |
